@@ -35,14 +35,10 @@
 |---|---|---|
 | [Jarvis-2.0](https://github.com/FayezBast/Jarvis-2.0) | Local-first AI assistant that can execute tasks, manage files, and assist development workflows. | Python, agent tooling |
 | [Gazera](https://github.com/FayezBast/gazera-labs.github.io) | Arabic-first AI platform with QLoRA fine-tuning, RAG pipelines, API serving, and web UI. | Python, FastAPI, Next.js |
-| [Jarvis Desktop](https://github.com/FayezBast/Jarvis-desktop) | Desktop AI assistant with voice wake flow, speech synthesis, and chat-style UI. | Python, PyQt6, ElevenLabs |
 | [Pulse AI Hackathon](https://github.com/FayezBast/Pulse-Ai---Hackathon) | Hospital workflow assistant concept with voice-to-text and automated form filling. | Python |
 | [Simple Shell](https://github.com/FayezBast/holbertonschool-simple_shell) | UNIX shell implementation with command parsing and built-in command handling. | C |
 | [Leekha Scoreboard](https://github.com/FayezBast/leekha-scoreboard) | Lightweight browser app for real-time score tracking in a custom card game. | HTML, CSS, JavaScript |
 
-## Project Spotlight
-### University Face Attendance System
-Built a facial recognition attendance system using Python, Java, SQLite, and Dlib, then presented it as a graduation project and won 2nd place in 2024.
 
 ## GitHub Activity
 <p>
