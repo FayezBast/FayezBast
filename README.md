@@ -3,11 +3,8 @@
   <p><strong>Junior Software Engineer | AI Enthusiast | Applied AI + Backend Development</strong></p>
   <p>Building assistants, automations, and full-stack products that solve real-world problems.</p>
   <p>
-    <a href="mailto:fayezbast15@gmail.com">
-      <img src="https://img.shields.io/badge/Email-fayezbast15%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
     <a href="https://linkedin.com/in/fayez-bast">
-      <img src="https://img.shields.io/badge/LinkedIn-Fayez%20Bast-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
   </p>
 </div>
