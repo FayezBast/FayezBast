@@ -1,48 +1,55 @@
-# Fayez Bast
+<div align="center">
+  <h1>Fayez Bast</h1>
+  <p><strong>Junior Software Engineer | AI Enthusiast | Applied AI + Backend Development</strong></p>
+  <p>Building assistants, automations, and full-stack products that solve real-world problems.</p>
+  <p>
+    <a href="mailto:fayezbast15@gmail.com">Email</a> |
+    <a href="https://linkedin.com/in/fayez-bast">LinkedIn</a> |
+    <a href="https://github.com/FayezBast">GitHub</a>
+  </p>
+</div>
 
-**Junior Software Engineer | AI Enthusiast | Applied AI & Backend Development**
+## Quick Snapshot
+- Focused on AI assistants, LLM pipelines, RAG systems, backend APIs, and automation tools.
+- Strong hands-on background in Python and practical machine learning.
+- 2nd place, 2024 CS graduation projects for a face-recognition attendance system.
 
-Junior Software Engineer and AI enthusiast with hands-on experience building AI-powered assistants, automation systems, and full-stack applications. Strong foundation in Python, machine learning, and backend development, with a proven ability to deliver real-world projects and competitive academic results.
+## Tech I Use
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
-## What I Work On
-- AI assistants
-- LLM pipelines
-- RAG systems
-- Backend APIs
-- Automation tools
-- Full-stack applications
+## Featured Work
+| Project | What I Built | Stack |
+|---|---|---|
+| [Jarvis-2.0](https://github.com/FayezBast/Jarvis-2.0) | Local-first AI assistant that can execute tasks, manage files, and assist development workflows. | Python, agent tooling |
+| [Gazera](https://github.com/FayezBast/gazera-labs.github.io) | Arabic-first AI platform with QLoRA fine-tuning, RAG pipelines, API serving, and web UI. | Python, FastAPI, Next.js |
+| [Jarvis Desktop](https://github.com/FayezBast/Jarvis-desktop) | Desktop AI assistant with voice wake flow, speech synthesis, and chat-style UI. | Python, PyQt6, ElevenLabs |
+| [Pulse AI Hackathon](https://github.com/FayezBast/Pulse-Ai---Hackathon) | Hospital workflow assistant concept with voice-to-text and automated form filling. | Python |
+| [Simple Shell](https://github.com/FayezBast/holbertonschool-simple_shell) | UNIX shell implementation with command parsing and built-in command handling. | C |
+| [Leekha Scoreboard](https://github.com/FayezBast/leekha-scoreboard) | Lightweight browser app for real-time score tracking in a custom card game. | HTML, CSS, JavaScript |
 
-## Featured Projects
-### AI Personal Assistant
-Built an AI-powered assistant capable of understanding natural language commands and executing automated tasks through a conversational interface.
-
+## Project Spotlight
 ### University Face Attendance System
-Developed a facial recognition-based attendance system using Python, Java, SQLite, and Dlib. Awarded 2nd place among 2024 Computer Science graduation projects.
+Built a facial recognition attendance system using Python, Java, SQLite, and Dlib, then presented it as a graduation project and won 2nd place in 2024.
 
-## Projects From GitHub
-- [Jarvis-2.0](https://github.com/FayezBast/Jarvis-2.0): Local-first AI assistant agent that can automate tasks, execute code, and interact with development workflows.
-- [gazera-labs.github.io](https://github.com/FayezBast/gazera-labs.github.io): Arabic-first AI platform combining QLoRA fine-tuning, RAG, citation-aware responses, FastAPI serving, and a Next.js web app.
-- [Jarvis-desktop](https://github.com/FayezBast/Jarvis-desktop): Desktop AI assistant built with PyQt6, voice recognition, and ElevenLabs text-to-speech.
-- [Pulse-Ai---Hackathon](https://github.com/FayezBast/Pulse-Ai---Hackathon): Hackathon AI project for hospital workflow support with voice-to-text and document autofill features.
-- [leekha-scoreboard](https://github.com/FayezBast/leekha-scoreboard): Lightweight score-tracking web app for the Leekha card game.
-- [holbertonschool-simple_shell](https://github.com/FayezBast/holbertonschool-simple_shell): Simple UNIX shell implementation in C with command parsing and built-in commands.
-- [Car-rental-Website](https://github.com/FayezBast/Car-rental-Website): University car rental system built with web technologies and database integration.
-- [UnitConversionApp-with-flutter](https://github.com/FayezBast/UnitConversionApp-with-flutter): Flutter unit conversion app with multiple categories and offline support.
-- [Weather-app](https://github.com/FayezBast/Weather-app): Weather search app using OpenWeather API.
-
-## Tech Stack
-**Languages:** Python, Go, Java, JavaScript, TypeScript, SQL, C, HTML/CSS, Dart  
-**AI/ML:** PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib  
-**Backend:** Node.js, Express.js, Spring Boot, Java EE, REST APIs  
-**Frontend:** React, Redux, Bootstrap  
-**Databases:** MySQL, PostgreSQL, MongoDB, SQLite  
-**Cloud/DevOps:** Docker, Git, GitHub Actions, AWS
+## GitHub Activity
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FayezBast&show_icons=true&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FayezBast&layout=compact&hide_border=true" />
+</p>
 
 ## Education
 - B.S. in Computer Science - Lebanese International University
 - Diploma in Software Engineering - Lebanese American University
-
-## Contact
-- Email: fayezbast15@gmail.com
-- LinkedIn: [linkedin.com/in/fayez-bast](https://linkedin.com/in/fayez-bast)
-- GitHub: [github.com/FayezBast](https://github.com/FayezBast)
