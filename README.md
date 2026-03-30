@@ -35,6 +35,7 @@
 |---|---|---|
 | [Jarvis-2.0](https://github.com/FayezBast/Jarvis-2.0) | Local-first AI assistant that can execute tasks, manage files, and assist development workflows. | Python, agent tooling |
 | [Gazera](https://github.com/FayezBast/gazera-labs.github.io) | Arabic-first AI platform with QLoRA fine-tuning, RAG pipelines, API serving, and web UI. | Python, FastAPI, Next.js |
+| [WorldMonitor](https://github.com/FayezBast/worldmonitor) | Contributed to a real-time global intelligence dashboard for AI news aggregation, geopolitical monitoring, and infrastructure tracking. | TypeScript, dashboard systems |
 | [Pulse AI Hackathon](https://github.com/FayezBast/Pulse-Ai---Hackathon) | Hospital workflow assistant concept with voice-to-text and automated form filling. | Python |
 | [Simple Shell](https://github.com/FayezBast/holbertonschool-simple_shell) | UNIX shell implementation with command parsing and built-in command handling. | C |
 | [Leekha Scoreboard](https://github.com/FayezBast/leekha-scoreboard) | Lightweight browser app for real-time score tracking in a custom card game. | HTML, CSS, JavaScript |
