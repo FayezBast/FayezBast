@@ -46,8 +46,8 @@ Built a facial recognition attendance system using Python, Java, SQLite, and Dli
 
 ## GitHub Activity
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FayezBast&show_icons=true&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FayezBast&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FayezBast&show_icons=true&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FayezBast&layout=compact&hide_border=true" />
 </p>
 
 ## Education
