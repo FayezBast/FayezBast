@@ -3,9 +3,12 @@
   <p><strong>Junior Software Engineer | AI Enthusiast | Applied AI + Backend Development</strong></p>
   <p>Building assistants, automations, and full-stack products that solve real-world problems.</p>
   <p>
-    <a href="mailto:fayezbast15@gmail.com">Email</a> |
-    <a href="https://linkedin.com/in/fayez-bast">LinkedIn</a> |
-    <a href="https://github.com/FayezBast">GitHub</a>
+    <a href="mailto:fayezbast15@gmail.com">
+      <img src="https://img.shields.io/badge/Email-fayezbast15%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://linkedin.com/in/fayez-bast">
+      <img src="https://img.shields.io/badge/LinkedIn-Fayez%20Bast-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
   </p>
 </div>
 
@@ -33,12 +36,12 @@
 ## Featured Work
 | Project | What I Built | Stack |
 |---|---|---|
-| [Jarvis-2.0](https://github.com/FayezBast/Jarvis-2.0) | Local-first AI assistant that can execute tasks, manage files, and assist development workflows. | Python, agent tooling |
-| [Gazera](https://github.com/FayezBast/gazera-labs.github.io) | Arabic-first AI platform with QLoRA fine-tuning, RAG pipelines, API serving, and web UI. | Python, FastAPI, Next.js |
-| [WorldMonitor](https://github.com/FayezBast/worldmonitor) | Contributed to a real-time global intelligence dashboard for AI news aggregation, geopolitical monitoring, and infrastructure tracking. | TypeScript, dashboard systems |
-| [Pulse AI Hackathon](https://github.com/FayezBast/Pulse-Ai---Hackathon) | Hospital workflow assistant concept with voice-to-text and automated form filling. | Python |
-| [Simple Shell](https://github.com/FayezBast/holbertonschool-simple_shell) | UNIX shell implementation with command parsing and built-in command handling. | C |
-| [Leekha Scoreboard](https://github.com/FayezBast/leekha-scoreboard) | Lightweight browser app for real-time score tracking in a custom card game. | HTML, CSS, JavaScript |
+| [Jarvis-2.0](https://github.com/FayezBast/Jarvis-2.0) | Local-first AI assistant that can execute tasks, manage files, and assist development workflows. | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/><img src="https://img.shields.io/badge/Agent%20Tooling-111827?style=for-the-badge" /> |
+| [Gazera](https://github.com/FayezBast/gazera-labs.github.io) | Arabic-first AI platform with QLoRA fine-tuning, RAG pipelines, API serving, and web UI. | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /><br/><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> |
+| [WorldMonitor](https://github.com/FayezBast/worldmonitor) | Contributed to a real-time global intelligence dashboard for AI news aggregation, geopolitical monitoring, and infrastructure tracking. | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /><br/><img src="https://img.shields.io/badge/Dashboard%20Systems-0F766E?style=for-the-badge" /> |
+| [Pulse AI Hackathon](https://github.com/FayezBast/Pulse-Ai---Hackathon) | Hospital workflow assistant concept with voice-to-text and automated form filling. | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/><img src="https://img.shields.io/badge/Automation-4B5563?style=for-the-badge" /> |
+| [Simple Shell](https://github.com/FayezBast/holbertonschool-simple_shell) | UNIX shell implementation with command parsing and built-in command handling. | <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" /><br/><img src="https://img.shields.io/badge/UNIX%20Systems-1F2937?style=for-the-badge" /> |
+| [Leekha Scoreboard](https://github.com/FayezBast/leekha-scoreboard) | Lightweight browser app for real-time score tracking in a custom card game. | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br/><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> |
 
 
 ## GitHub Activity
