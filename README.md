@@ -64,11 +64,14 @@ problem -> prototype -> evaluate -> harden -> ship -> improve
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/FayezBast/gazera-labs.github.io">Gazera</a></h3>
-      <p>Arabic-first AI platform with QLoRA fine-tuning, RAG pipelines, API serving, and a web UI.</p>
+      <p>Startup idea for sovereign Arabic AI: building Arabic-first AI systems and training LLMs from the ground up.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Sovereign%20AI-0F766E?style=flat-square" alt="Sovereign AI" />
+        <img src="https://img.shields.io/badge/LLM%20Training-111827?style=flat-square" alt="LLM Training" />
+        <img src="https://img.shields.io/badge/Startup%20Idea-7C3AED?style=flat-square" alt="Startup Idea" />
       </p>
     </td>
   </tr>
