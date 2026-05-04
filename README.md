@@ -95,12 +95,13 @@ problem -> prototype -> evaluate -> harden -> ship -> improve
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/FayezBast/holbertonschool-simple_shell">Simple Shell</a></h3>
-      <p>UNIX shell implementation with command parsing, built-ins, and process execution.</p>
+      <h3><a href="https://github.com/FayezBast/Uber-Eats-Clone">Uber Eats Clone</a></h3>
+      <p>Food delivery platform with customer, restaurant, ordering, and backend service workflows.</p>
       <p>
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
-        <img src="https://img.shields.io/badge/UNIX-111827?style=flat-square" alt="UNIX" />
-        <img src="https://img.shields.io/badge/Systems-334155?style=flat-square" alt="Systems" />
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Food%20Delivery-16A34A?style=flat-square" alt="Food Delivery" />
+        <img src="https://img.shields.io/badge/Backend-0F172A?style=flat-square" alt="Backend" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -118,7 +119,7 @@ problem -> prototype -> evaluate -> harden -> ship -> improve
 ## Toolbox
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,go,java,ts,js,nodejs,react,nextjs,fastapi,pytorch,tensorflow,postgres,mongodb,docker,git,linux&perline=8" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=python,go,java,ts,js,nodejs,react,nextjs,fastapi,pytorch,tensorflow,postgres,mongodb,aws,docker,git,linux&perline=9" alt="Tech stack icons" />
 </p>
 
 <table>
@@ -136,7 +137,7 @@ problem -> prototype -> evaluate -> harden -> ship -> improve
   </tr>
   <tr>
     <td><strong>Data / Infra</strong></td>
-    <td>PostgreSQL, MongoDB, Docker, Linux, Git</td>
+    <td>PostgreSQL, MongoDB, AWS, Docker, Linux, Git</td>
   </tr>
 </table>
 
