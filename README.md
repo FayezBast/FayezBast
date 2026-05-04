@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:2563EB,100:14B8A6&height=180&section=header&text=Fayez%20Bast&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20building%20AI%20agents%2C%20automation%2C%20and%20backend%20systems&descAlignY=61&descSize=16" alt="Fayez Bast banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:2563EB,100:14B8A6&height=180&section=header&text=Fayez%20Bast&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20building%20AI%20agents%2C%20Go%20backends%2C%20and%20automation%20systems&descAlignY=61&descSize=16" alt="Fayez Bast banner" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=760&lines=Applied+AI+%7C+RAG+pipelines+%7C+LLM+apps;Backend+APIs+%7C+automation+tools+%7C+product+workflows;I+like+turning+messy+manual+work+into+software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=780&lines=Applied+AI+%7C+RAG+pipelines+%7C+LLM+apps;Go+backends+%7C+product+APIs+%7C+automation+tools;Open-source+collaborator+on+World+Monitor;I+like+turning+messy+manual+work+into+software" alt="Typing SVG" />
 </p>
 
 ---
@@ -29,11 +29,15 @@ problem -> prototype -> evaluate -> harden -> ship -> improve
 <table>
   <tr>
     <td><strong>Current focus</strong></td>
-    <td>AI agents, LLM pipelines, RAG, backend APIs, automations, developer tooling</td>
+    <td>AI agents, LLM pipelines, RAG, Go backend APIs, automations, developer tooling</td>
+  </tr>
+  <tr>
+    <td><strong>Currently building</strong></td>
+    <td>Uber Eats-style food delivery platform with a Go backend and product-grade service boundaries</td>
   </tr>
   <tr>
     <td><strong>Strongest stack</strong></td>
-    <td>Python, FastAPI, TypeScript, React, Node.js, PostgreSQL, Docker</td>
+    <td>Python, Go, FastAPI, TypeScript, React, Node.js, PostgreSQL, Docker</td>
   </tr>
   <tr>
     <td><strong>Engineering bias</strong></td>
@@ -70,10 +74,11 @@ problem -> prototype -> evaluate -> harden -> ship -> improve
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/FayezBast/worldmonitor">WorldMonitor</a></h3>
-      <p>Real-time global intelligence dashboard for AI news, geopolitics, and infrastructure tracking.</p>
+      <h3><a href="https://github.com/koala73/worldmonitor">World Monitor</a></h3>
+      <p>Open-source collaborator on a real-time global intelligence dashboard with 50k+ stars and 8k+ forks.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Open%20Source-16A34A?style=flat-square" alt="Open Source" />
         <img src="https://img.shields.io/badge/Dashboard-0F172A?style=flat-square" alt="Dashboard" />
         <img src="https://img.shields.io/badge/Realtime-0891B2?style=flat-square" alt="Realtime" />
       </p>
@@ -123,7 +128,7 @@ problem -> prototype -> evaluate -> harden -> ship -> improve
   </tr>
   <tr>
     <td><strong>Backend</strong></td>
-    <td>FastAPI, Node.js, REST APIs, service design, automation scripts</td>
+    <td>Go services, FastAPI, Node.js, REST APIs, service design, automation scripts</td>
   </tr>
   <tr>
     <td><strong>AI / ML</strong></td>
