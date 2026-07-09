@@ -149,19 +149,6 @@ problem -> prototype -> evaluate -> harden -> ship -> improve
   <img height="168" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FayezBast&layout=compact&hide_border=true&theme=tokyonight" alt="Fayez Bast top languages" />
 </p>
 
-## Education
-
-<table>
-  <tr>
-    <td><strong>B.S. Computer Science</strong></td>
-    <td>Lebanese International University</td>
-  </tr>
-  <tr>
-    <td><strong>Diploma, Software Engineering</strong></td>
-    <td>Lebanese American University</td>
-  </tr>
-</table>
-
 ---
 
 <p align="center">
