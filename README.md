@@ -1,27 +1,92 @@
-<h1 align="center">Fayez Bast</h1>
+<!-- ============ HEADER ============ -->
+<a href="https://github.com/FayezBast">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Fayez%20Bast&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=Building%20efficient%20AI%20systems%20%26%20dependable%20backend%20products&descSize=17&descAlignY=58&animation=fadeIn" alt="Fayez Bast" />
+</a>
 
-<h3 align="center">Software engineer building efficient AI systems and dependable backend products.</h3>
-
+<!-- ============ TYPING TAGLINE ============ -->
 <p align="center">
-  I turn noisy context and repetitive workflows into practical agents, APIs, and automation.
+  <a href="https://github.com/FayezBast">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Software+Engineer;AI+Agent+Infrastructure;Backend+Systems+%26+APIs;Workflow+Automation;Prototype+%E2%86%92+Evaluate+%E2%86%92+Harden+%E2%86%92+Ship" alt="Typing SVG" />
+  </a>
 </p>
 
+<!-- ============ SOCIAL / CONTACT ============ -->
 <p align="center">
-  <a href="mailto:fayezbast15@gmail.com">Email</a> ·
-  <a href="https://linkedin.com/in/fayez-bast">LinkedIn</a> ·
-  <a href="https://github.com/FayezBast?tab=repositories">Projects</a>
+  <a href="mailto:fayezbast15@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/fayez-bast">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/FayezBast?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=FayezBast&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
----
+<br/>
 
-```text
-focus      agent infrastructure · backend systems · workflow automation
-building   B-eats · Basira
-proof      OpenAI Agents SDK · 17 World Monitor PRs · PPSSPP
-approach   prototype → evaluate → harden → ship → improve
+<!-- ============ INTRO ============ -->
+> I turn noisy context and repetitive workflows into practical agents, APIs, and automation.
+
+```yaml
+focus:     agent infrastructure · backend systems · workflow automation
+building:  B-eats · Basira
+proof:     OpenAI Agents SDK · 17 World Monitor PRs · PPSSPP
+approach:  prototype → evaluate → harden → ship → improve
 ```
 
-## Selected work
+<br/>
+
+<!-- ============ TECH STACK ============ -->
+## 🧰 Tech Stack
+
+**Languages**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+
+**Backend & Frameworks**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=gin&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=for-the-badge&logo=swift&logoColor=white)
+
+**Data & Infrastructure**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**AI & Agents**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![LangChain](https://img.shields.io/badge/Agents%20%26%20RAG-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+<br/>
+
+<!-- ============ GITHUB STATS ============ -->
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="58%" src="https://streak-stats.demolab.com?user=FayezBast&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=00D9FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&excludeDaysLabel=8B949E" alt="GitHub Streak" />
+</p>
+
+<!-- ============ ACTIVITY GRAPH ============ -->
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=FayezBast&bg_color=0d1117&color=58a6ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
+</p>
+
+<br/>
+
+<!-- ============ SELECTED WORK ============ -->
+## 🚀 Selected Work
 
 ### [B-eats](https://github.com/FayezBast/Uber-Eats-Clone) — full-stack delivery platform
 
@@ -41,7 +106,10 @@ A Python agent that executes tools locally for sandboxed file operations, shell 
 
 `Python` · `Agents` · `Tool use` · `Gemini`
 
-## Open-source impact
+<br/>
+
+<!-- ============ OPEN SOURCE ============ -->
+## 🌍 Open-Source Impact
 
 ### [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) — voice streaming reliability
 
@@ -65,18 +133,42 @@ Completed the emulator's Arabic UI translation by translating roughly 380 remain
 
 [View merged PR #21913 →](https://github.com/hrydgard/ppsspp/pull/21913)
 
-## What I work with
+<br/>
+
+<!-- ============ WHAT I WORK WITH ============ -->
+## 🛠️ What I Work With
 
 - **Applied AI** — agents, retrieval, context engineering, evaluation, and model serving.
 - **Backend systems** — Go services, FastAPI, REST APIs, PostgreSQL, caching, and background jobs.
 - **Product engineering** — TypeScript, React, Next.js, Docker, automation, and practical observability.
 
-## More work
+**More work:** [Pulse AI](https://github.com/FayezBast/Pulse-Ai---Hackathon) — a hospital workflow prototype that turns spoken notes into text and helps automate DXCare form entry.
 
-- **[Pulse AI](https://github.com/FayezBast/Pulse-Ai---Hackathon)** — a hospital workflow prototype that turns spoken notes into text and helps automate DXCare form entry.
+<br/>
 
-## Let's build
+<!-- ============ SNAKE ============ -->
+## 🐍 Contribution Graph
 
-I am open to collaborating on applied AI products, automation-heavy tooling, and backend platforms.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FayezBast/FayezBast/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FayezBast/FayezBast/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/FayezBast/FayezBast/output/github-contribution-grid-snake.svg" />
+</picture>
 
-[Email me](mailto:fayezbast15@gmail.com) or [connect with me on LinkedIn](https://linkedin.com/in/fayez-bast).
+<br/>
+
+<!-- ============ LET'S BUILD ============ -->
+## 🤝 Let's Build
+
+I'm open to collaborating on applied AI products, automation-heavy tooling, and backend platforms.
+
+<p align="center">
+  <a href="mailto:fayezbast15@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
+  </a>
+  <a href="https://linkedin.com/in/fayez-bast">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer" alt="footer" />
