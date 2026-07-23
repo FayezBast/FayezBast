@@ -1,0 +1,11 @@
+<svg width="176" height="44" viewBox="0 0 176 44" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="repositories">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8b5cf6"/>
+      <stop offset="0.5" stop-color="#3b82f6"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="174" height="42" rx="12" fill="#0b1322" stroke="url(#accent)" stroke-width="1.5"/>
+  <text x="88" y="27" text-anchor="middle" font-family="'SF Mono', 'Cascadia Code', Consolas, Menlo, monospace" font-size="13" fill="#c6d3ea"><tspan fill="#22d3ee" font-weight="700">&lt;/&gt;</tspan> repositories</text>
+</svg>

@@ -1,0 +1,33 @@
+<svg width="900" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="prototype, evaluate, harden, ship">
+  <style>
+    .glow { animation: pulse 6s ease-in-out infinite alternate; }
+    @keyframes pulse { from { opacity: 0.25; } to { opacity: 0.5; } }
+    @media (prefers-reduced-motion: reduce) { .glow { animation: none !important; } }
+  </style>
+  <defs>
+    <clipPath id="frame"><rect x="0" y="0" width="900" height="120" rx="16"/></clipPath>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#070b15"/>
+      <stop offset="1" stop-color="#0a1120"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#16223f" stroke-width="1"/>
+    </pattern>
+    <filter id="soft" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="45"/>
+    </filter>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect x="0" y="0" width="900" height="120" fill="url(#bg)"/>
+    <rect x="0" y="0" width="900" height="120" fill="url(#grid)" opacity="0.45"/>
+    <ellipse class="glow" cx="450" cy="135" rx="280" ry="70" fill="#2563eb" filter="url(#soft)"/>
+    <g stroke="#2c3d63" stroke-width="1.5" fill="none" opacity="0.9">
+      <path d="M18 32 V18 H32"/>
+      <path d="M868 18 H882 V32"/>
+      <path d="M18 88 V102 H32"/>
+      <path d="M882 88 V102 H868"/>
+    </g>
+    <text x="450" y="58" text-anchor="middle" font-family="'SF Mono', 'Cascadia Code', Consolas, Menlo, monospace" font-size="15" letter-spacing="1" fill="#9db0d0">prototype <tspan fill="#22d3ee">→</tspan> evaluate <tspan fill="#22d3ee">→</tspan> harden <tspan fill="#22d3ee">→</tspan> ship</text>
+    <text x="450" y="86" text-anchor="middle" font-family="'SF Mono', 'Cascadia Code', Consolas, Menlo, monospace" font-size="11" letter-spacing="1.5" fill="#4a5b7d">github.com/FayezBast</text>
+  </g>
+</svg>
