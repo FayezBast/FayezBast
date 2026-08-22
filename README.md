@@ -2,6 +2,8 @@
 
 I build AI agents and the backend systems that keep them reliable. The work I'm proudest of is merged into codebases I don't own — the OpenAI Agents SDK, a real-time global intelligence platform, and one of the most widely used PSP emulators.
 
+**2026 — Accepted into OpenAI's [Codex for Open Source](https://developers.openai.com/community) program.**
+
 <p>
   <a href="mailto:fayezbast15@gmail.com"><img src="assets/btn-email.svg" height="42" alt="email"></a>&nbsp;
   <a href="https://linkedin.com/in/fayez-bast"><img src="assets/btn-linkedin.svg" height="42" alt="linkedin"></a>&nbsp;
@@ -18,7 +20,7 @@ I build AI agents and the backend systems that keep them reliable. The work I'm 
 **[openai/openai-agents-python](https://github.com/openai/openai-agents-python)** — voice pipeline reliability<br>
 Streamed float32 audio was reaching a PCM16 realtime transcription endpoint as raw IEEE-754 bytes. Shipped a shared, non-mutating conversion path with regression tests covering clipping, exact byte output, int16 pass-through, and buffer immutability. → [PR #3916](https://github.com/openai/openai-agents-python/pull/3916)
 
-**[koala73/worldmonitor](https://github.com/koala73/worldmonitor)** — 17 merged pull requests<br>
+**[koala73/worldmonitor](https://github.com/koala73/worldmonitor)** — 24 merged pull requests<br>
 Real-time global intelligence dashboard. Localized MapLibre basemap labels into 20 languages including RTL, isolated request caches by query variant, and shipped an ocean-and-ice data pipeline from ingestion through RPC and cache health. → [all merged PRs](https://github.com/koala73/worldmonitor/pulls?q=is%3Apr+author%3AFayezBast+is%3Amerged)
 
 **[hrydgard/ppsspp](https://github.com/hrydgard/ppsspp)** — Arabic localization, completed<br>
@@ -41,10 +43,7 @@ Translated the ~380 remaining UI strings, repaired four broken placeholder subst
   <img src="assets/section-stack-light.svg" width="100%" alt="03 — Stack">
 </picture>
 
-**languages** — Go · Python · TypeScript · Swift<br>
-**backend** — FastAPI · Gin · PostgreSQL · Redis · Docker<br>
-**frontend** — Next.js · React · SwiftUI<br>
-**ai** — agents · tool use · RAG · evals — OpenAI · Gemini · Groq
+<img src="assets/stack.svg" width="100%" alt="Languages: Go, Python, TypeScript, Swift · Backend: FastAPI, Gin, PostgreSQL, Redis, Docker · Frontend: Next.js, React, SwiftUI · AI: OpenAI, Gemini, Groq, LangChain">
 
 <br>
 
