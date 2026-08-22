@@ -2,7 +2,7 @@
 
 I build AI agents and the backend systems that keep them reliable. The work I'm proudest of is merged into codebases I don't own — the OpenAI Agents SDK, a real-time global intelligence platform, and one of the most widely used PSP emulators.
 
-**2026 — Accepted into OpenAI's [Codex for Open Source](https://developers.openai.com/community) program.**
+### Accepted into OpenAI's [Codex for Open Source](https://developers.openai.com/community) program · 2026
 
 <p>
   <a href="mailto:fayezbast15@gmail.com"><img src="assets/btn-email.svg" height="42" alt="email"></a>&nbsp;
