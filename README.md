@@ -14,37 +14,41 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/section-upstream-dark.svg">
-  <img src="assets/section-upstream-light.svg" width="100%" alt="01 — Merged upstream">
+  <img src="assets/section-upstream-light.svg" width="100%" alt="Open Source">
 </picture>
 
-**[openai/openai-agents-python](https://github.com/openai/openai-agents-python)** — voice pipeline reliability<br>
-Streamed float32 audio was reaching a PCM16 realtime transcription endpoint as raw IEEE-754 bytes. Shipped a shared, non-mutating conversion path with regression tests covering clipping, exact byte output, int16 pass-through, and buffer immutability. → [PR #3916](https://github.com/openai/openai-agents-python/pull/3916)
+<img src="assets/open-source-map.svg" width="100%" alt="Contribution map with GitHub star counts. Project links by route follow below.">
 
-**[koala73/worldmonitor](https://github.com/koala73/worldmonitor)** — 24 merged pull requests<br>
-Real-time global intelligence dashboard. Localized MapLibre basemap labels into 20 languages including RTL, isolated request caches by query variant, and shipped an ocean-and-ice data pipeline from ingestion through RPC and cache health. → [all merged PRs](https://github.com/koala73/worldmonitor/pulls?q=is%3Apr+author%3AFayezBast+is%3Amerged)
+| Route | Merged PRs by project |
+| :-- | :-- |
+| **AI & voice** | [OpenAI Agents SDK](https://github.com/openai/openai-agents-python/pulls?q=is%3Apr+is%3Amerged+author%3AFayezBast) · [Page Agent](https://github.com/alibaba/page-agent/pulls?q=is%3Apr+is%3Amerged+author%3AFayezBast) |
+| **Data & platforms** | [World Monitor](https://github.com/koala73/worldmonitor/pulls?q=is%3Apr+is%3Amerged+author%3AFayezBast) · [Backstage](https://github.com/backstage/backstage/pulls?q=is%3Apr+is%3Amerged+author%3AFayezBast) |
+| **Cloud native** | [Prometheus](https://github.com/prometheus/prometheus/pulls?q=is%3Apr+is%3Amerged+author%3AFayezBast) · [Kubescape](https://github.com/kubescape/kubescape/pulls?q=is%3Apr+is%3Amerged+author%3AFayezBast) |
+| **Localization** | [PPSSPP](https://github.com/hrydgard/ppsspp/pulls?q=is%3Apr+is%3Amerged+author%3AFayezBast) |
 
-**[hrydgard/ppsspp](https://github.com/hrydgard/ppsspp)** — Arabic localization, completed<br>
-Translated the ~380 remaining UI strings, repaired four broken placeholder substitutions, and brought the Arabic key set fully in sync with the English source. → [PR #21913](https://github.com/hrydgard/ppsspp/pull/21913)
+### Featured contributions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/section-building-dark.svg">
-  <img src="assets/section-building-light.svg" width="100%" alt="02 — Building">
-</picture>
+- **OpenAI Agents SDK** — Fixed real-time voice transcription by converting streamed float32 audio to PCM16. [PR #3916](https://github.com/openai/openai-agents-python/pull/3916)
+- **Kubescape** — Prevented autofix from patching the wrong Kubernetes resource when a manifest changed after scanning. [PR #4625](https://github.com/kubescape/kubescape/pull/4625)
+- **World Monitor** — Added cancellation safeguards and checked that browser agent actions took effect before reporting success. [PR #7050](https://github.com/koala73/worldmonitor/pull/7050)
+- **World Monitor** — Built the ocean and ice data pipeline, from ingestion through the RPC, caching, and freshness checks. [PR #2652](https://github.com/koala73/worldmonitor/pull/2652)
+- **Alibaba Page Agent** — Fixed a crash in downstream bundles that strip debug logging during minification. [PR #623](https://github.com/alibaba/page-agent/pull/623)
 
-| project | what it is | built with |
-|:--|:--|:--|
-| **[B-eats](https://github.com/FayezBast/Uber-Eats-Clone)** | Delivery platform in three apps — a customer/driver/restaurant frontend, an ops dashboard, and a Go API owning auth, delivery lifecycle, notifications, and live tracking | `Go` `Next.js` `PostgreSQL` `Redis` |
-| **Basira** | Voice-first mobile assistant for blind users in Lebanon — scene understanding, spatial audio cues, Arabic-first TTS | `Swift` `ARKit` `FastAPI` `Groq` |
-| **[Jarvis 2.0](https://github.com/FayezBast/Jarvis-2.0)** | Local tool-using agent — sandboxed file operations, shell and git workflows, persistent memory | `Python` `Gemini` |
-| **[Pulse AI](https://github.com/FayezBast/Pulse-Ai---Hackathon)** | Hospital workflow prototype — spoken clinical notes to automated DXCare form entry | `Python` `Speech` |
+<details>
+<summary><strong>Full contribution index</strong></summary>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/section-stack-dark.svg">
-  <img src="assets/section-stack-light.svg" width="100%" alt="03 — Stack">
-</picture>
+41 public PRs merged across 7 upstream repositories as of November 7, 2026.
 
-<img src="assets/stack.svg" width="100%" alt="Languages: Go, Python, TypeScript, Swift · Backend: FastAPI, Gin, PostgreSQL, Redis, Docker · Frontend: Next.js, React, SwiftUI · AI: OpenAI, Gemini, Groq, LangChain">
+| Repository | Merged PRs |
+| :-- | --: |
+| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 33 |
+| [kubescape/kubescape](https://github.com/kubescape/kubescape) | 2 |
+| [prometheus/prometheus](https://github.com/prometheus/prometheus) | 2 |
+| [alibaba/page-agent](https://github.com/alibaba/page-agent) | 1 |
+| [backstage/backstage](https://github.com/backstage/backstage) | 1 |
+| [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) | 1 |
+| [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | 1 |
 
-<br>
+[View all public merged PRs on GitHub](https://github.com/search?q=is%3Apr+is%3Amerged+is%3Apublic+author%3AFayezBast&type=pullrequests)
 
-<img src="assets/footer.svg" width="100%" alt="prototype → evaluate → harden → ship · github.com/FayezBast">
+</details>
