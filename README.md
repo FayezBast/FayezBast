@@ -1,14 +1,14 @@
-<img src="assets/hero.svg" width="100%" alt="Fayez Bast — software engineer · agent infrastructure & backend systems">
+<p><img src="assets/hero.svg" width="100%" alt="Fayez Bast, software engineer"></p>
 
-I build AI agents and the backend systems that keep them reliable. The work I'm proudest of is merged into codebases I don't own — the OpenAI Agents SDK, a real-time global intelligence platform, and one of the most widely used PSP emulators.
+<br>
 
-### Accepted into OpenAI's [Codex for Open Source](https://developers.openai.com/community) program · 2026
+**Software engineer and open-source contributor.** I build APIs and data pipelines and improve AI agent reliability.
 
-<p>
-  <a href="mailto:fayezbast15@gmail.com"><img src="assets/btn-email.svg" height="42" alt="email"></a>&nbsp;
-  <a href="https://linkedin.com/in/fayez-bast"><img src="assets/btn-linkedin.svg" height="42" alt="linkedin"></a>&nbsp;
-  <a href="https://github.com/FayezBast?tab=repositories"><img src="assets/btn-repos.svg" height="42" alt="repositories"></a>
-</p>
+<br>
+
+**Accepted into OpenAI’s [Codex for Open Source](https://developers.openai.com/community) program (2026)**
+
+**Invited to the GitHub Maintainer Advisory Network**
 
 <br>
 
